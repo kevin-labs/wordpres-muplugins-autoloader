@@ -3,13 +3,11 @@
  * Plugin Name: Autoloader
  * Plugin URI: 
  * Description: Mu-plugins核心加载器
- * Version: 1.0.0
  * Author: 
  * Author URI: 
  * License: MIT License
  */
 
-// https://github.com/ruslangallo/wp-mu-autoloader
 namespace KevinLabs;
 
 if (!is_blog_installed()) {
